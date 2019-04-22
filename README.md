@@ -1,0 +1,2 @@
+# MyGallery
+A photo manager
